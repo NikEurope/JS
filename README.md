@@ -1,3 +1,3 @@
 # JS :
 
-http://jsbin.com/hovixa/edit?js,console,output
+JS replace :  http://jsbin.com/hovixa/edit?js,console,output
