@@ -34,8 +34,9 @@
             $('#block-navigationprincipale-3 ul').toggleClass('open');
 
         });
+        
 
-// Example de creation de class pour le mobile-menu-burger avec class open
+// Example de creation de class pour le mobile-menu-burger avec class open:  .toggleClass('open') >>>   class + open ------------------------------
 
         $('.mobile-menu-burger').click(function(event) {
 
@@ -46,9 +47,9 @@
             $('#block-navigationprincipale-4 ul').toggleClass('open');
 
         });
-
-
     });
+    
+    
 
 }(jQuery));
 
